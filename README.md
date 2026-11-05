@@ -6,7 +6,6 @@
   <a href="https://rongweiww.com">Portfolio ↗</a> ·
   <a href="https://rongweiww.com/#work">Selected work ↗</a>
 </p>
-
 ### 🪻 A little about me
 
 My head is always full of little “what ifs.”✨ What keeps me learning and building is the chance to turn those ideas into something real, something useful, playful, or capable of making someone's day a little better.🥰
