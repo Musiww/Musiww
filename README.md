@@ -1,7 +1,7 @@
 ![Hi, I'm Rongwei. Welcome to my little dev garden.](assets/garden-header.png)
 
 <p align="center">
-  <b>Rongwei (Vicky) Peng · Software Engineer</b><br />
+  <b>Rongwei (Vicky) · Software Engineer</b><br />
   M.S. in Computer Science, Northwestern University '26<br /><br />
   <a href="https://rongweiww.com">Portfolio ↗</a> ·
   <a href="https://rongweiww.com/#work">Selected work ↗</a>
