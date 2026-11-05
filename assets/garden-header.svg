@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Rongwei's little dev garden</title><desc id="desc">A cream and sage banner with a laptop, a small cat, coffee, plants and mountains. Code with care. Grow with curiosity.</desc>
+<rect width="1200" height="340" rx="24" fill="#f7f5ee"/>
+<path d="M0 293 Q200 260 360 302 T720 293 T1200 280 V340 H0Z" fill="#e7eddf"/>
+<g fill="#b3c4a3" opacity=".25"><circle cx="1110" cy="70" r="111"/><circle cx="800" cy="292" r="90"/></g>
+<g font-family="DejaVu Sans, sans-serif" fill="#344c3b">
+<text x="55" y="67" font-size="14" letter-spacing="3">MUSIWW / A LITTLE CORNER OF THE INTERNET</text>
+<text x="52" y="136" font-size="48" font-weight="bold">Hi, I'm Rongwei.</text>
+<text x="55" y="180" font-size="23" fill="#657c62">Welcome to my little dev garden.</text>
+<text x="55" y="232" font-size="18" fill="#626760">Backend logic, thoughtful interfaces,</text>
+<text x="55" y="260" font-size="18" fill="#626760">and small things that make learning easier.</text>
+<text x="55" y="312" font-size="13" letter-spacing="1.5">CODE WITH CARE. GROW WITH CURIOSITY.</text>
+</g>
+<!-- tiny mountain postcard -->
+<g transform="translate(984 43) rotate(7)"><rect width="143" height="104" rx="6" fill="#fffdf8" stroke="#d3d8c9" stroke-width="2"/><rect x="9" y="9" width="125" height="74" rx="3" fill="#e1e9e6"/><circle cx="107" cy="28" r="11" fill="#e8cf95"/><path d="M9 83 L47 28 L87 83 M62 83 L94 45 L134 83" fill="#a7b99d"/><path d="M34 47 L47 28 L61 48 L48 43Z" fill="#f9faf5"/></g>
+<!-- laptop -->
+<g stroke="#536d56" stroke-width="3" stroke-linejoin="round"><rect x="713" y="108" width="237" height="156" rx="12" fill="#b7c8a8"/><rect x="726" y="122" width="211" height="125" rx="5" fill="#fbfcf8"/><path d="M700 264 H963 L979 278 Q980 285 966 285 H696 Q683 285 685 278Z" fill="#d3dec9"/><path d="M803 265 H858" stroke="#899f7c"/></g>
+<g font-family="DejaVu Sans Mono, monospace" font-size="16" fill="#7f7190"><text x="743" y="153">const life = {</text><text x="755" y="179" fill="#58784d">learn: true,</text><text x="755" y="204" fill="#58784d">build: 'with care'</text><text x="743" y="230">};</text></g>
+<!-- plant -->
+<g stroke="#6e8763" stroke-width="3" fill="#a8bf97"><path d="M1037 231 V174" fill="none"/><path d="M1037 205 Q1000 203 1009 176 Q1039 177 1037 205Z"/><path d="M1037 192 Q1035 160 1067 161 Q1066 187 1037 192Z"/><path d="M1013 228 H1061 L1052 273 H1021Z" fill="#d9cbea" stroke="#9a8aa7"/></g>
+<!-- coffee -->
+<g stroke="#9d8a73" stroke-width="3" fill="#f4e5ce"><path d="M650 237 H690 V269 Q670 285 650 269Z"/><path d="M691 242 Q715 241 707 257 Q704 265 692 263" fill="none"/><path d="M663 224 Q656 215 665 207 M679 224 Q672 215 681 207" fill="none" stroke="#b7b0a1" stroke-linecap="round"/></g>
+<!-- small curious cat -->
+<g stroke="#8b827a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M1080 280 Q1068 252 1085 234 L1083 211 L1101 224 Q1112 219 1124 225 L1142 213 L1140 239 Q1151 256 1134 278Z" fill="#e8dfd2"/><path d="M1137 273 Q1168 290 1169 263 Q1169 249 1160 252" fill="none" stroke-width="7"/><path d="M1096 243 V247 M1126 243 V247 M1108 254 L1113 254 L1110 258Z" fill="#8b827a"/><path d="M1110 258 Q1107 264 1103 260 M1110 258 Q1114 264 1118 260" fill="none"/></g>
+<g fill="#b09ac2"><path d="M670 99 L674 109 L684 113 L674 117 L670 127 L666 117 L656 113 L666 109Z"/><path d="M979 182 L982 189 L989 192 L982 195 L979 202 L976 195 L969 192 L976 189Z"/></g>
+</svg>
