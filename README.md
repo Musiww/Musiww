@@ -7,9 +7,9 @@
   <a href="https://rongweiww.com/#work">Selected work ↗</a>
 </p>
 
-### 🌱 A little about me
+### 🪻 A little about me
 
-My head is always full of little “what ifs.”✨ What keeps me learning and building is the chance to turn those ideas into something real, something useful, playful, or capable of making someone's day a little better.
+My head is always full of little “what ifs.”✨ What keeps me learning and building is the chance to turn those ideas into something real, something useful, playful, or capable of making someone's day a little better.🥰
 
 My focus is **Java backend and full-stack development**, with a soft spot for **education technology and language learning**. I enjoy connecting the pieces, from backend logic to the little details on screen, and learning whatever an idea needs along the way.
 
@@ -26,9 +26,9 @@ My focus is **Java backend and full-stack development**, with a soft spot for **
 
 ### 🧰 My little toolbox
 
-**Backend & data** — Java · Spring Boot · Python · Go · PostgreSQL · MySQL · Redis
-**Frontend** — TypeScript · React · Next.js · Tailwind CSS
-**Cloud & quality** — AWS · Docker · GitHub Actions · JUnit 5 · Cucumber · PIT
+- **Backend & data** — Java · Spring Boot · Python · Go · PostgreSQL · MySQL · Redis
+- **Frontend** — TypeScript · React · Next.js · Tailwind CSS
+- **Cloud & quality** — AWS · Docker · GitHub Actions · JUnit 5 · Cucumber · PIT
 
 ### 🌿 Growing next
 
@@ -39,11 +39,11 @@ My focus is **Java backend and full-stack development**, with a soft spot for **
 - Exploring a cozy cycle tracker, playful mini-games, and a little companion app to make focus time feel less lonely.
 
 ### ☕ Away from the keyboard
-☕ Usually happy with a flat white, cute little things🐱, and the joy of learning languages🗣️. Native in Mandarin; learning English, Japanese, and a little Spanish.
+- ☕ Usually happy with a flat white, cute little things🐱, and the joy of learning languages🗣️. Native in Mandarin; learning English, Japanese, and a little Spanish.
 
-🏔️ Happiest outdoors — snowboarding🏂, skateboarding🛹, running🏃‍♀️, hiking🚶‍♀️, or making my way up a mountain⛰️. Nature gives my busy mind room to breathe.
+- 🏔️ Happiest outdoors — snowboarding🏂, skateboarding🛹, running🏃‍♀️, hiking🚶‍♀️, or making my way up a mountain⛰️. Nature gives my busy mind room to breathe.
 
-💭 I love philosophy, conversations about life, and hearing how other people see the world, especially older adults with stories to share and children with wonderfully unexpected questions.💖
+- 💭 I love philosophy, conversations about life, and hearing how other people see the world, especially older adults with stories to share and children with wonderfully unexpected questions.💖
 
 ---
 
