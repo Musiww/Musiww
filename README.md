@@ -42,8 +42,8 @@ Tools I've built with, learned from, and explored along the way.
 - Planning PixelTailor's next chapter: finding photos by describing what you remember about them.
 - Exploring a cozy cycle tracker, playful mini-games, and a little companion app to make focus time feel less lonely.
 
-### ☕ Away from the keyboard
-- ☕ Usually happy with a flat white, cute little things🐱, and the joy of learning languages🗣️. Native in Mandarin; learning English, Japanese, and a little Spanish.
+### 🥳 Away from the keyboard
+- ☕ Usually happy with a flat white, cute little things🐱, and the joy of learning languages🗣️. Native in Mandarin, Speaking English, Japanese, and a little Spanish.
 
 - 🏔️ Happiest outdoors — snowboarding🏂, skateboarding🛹, running🏃‍♀️, hiking🚶‍♀️, or making my way up a mountain⛰️. Nature gives my busy mind room to breathe.
 
