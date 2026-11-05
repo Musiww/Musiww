@@ -25,9 +25,19 @@ My focus is **Java backend and full-stack development**, with a soft spot for **
 
 ### 🧰 My little toolbox
 
-- **Backend & data** — Java · Spring Boot · Python · Go · PostgreSQL · MySQL · Redis
-- **Frontend** — TypeScript · React · Next.js · Tailwind CSS
-- **Cloud & quality** — AWS · Docker · GitHub Actions · JUnit 5 · Cucumber · PIT
+Tools I've built with, learned from, and explored along the way.
+
+- Languages — Java · Python · JavaScript · TypeScript · Go · C · C++ · SQL · Bash
+
+- Backend — Spring Boot · Spring Cloud · Django · Flask · Node.js · Express · REST APIs · GraphQL 
+
+- Frontend — React · Next.js · Tailwind CSS · HTML · CSS
+
+- Databases & messaging — PostgreSQL · MySQL · Redis · Cloud Firestore · Kafka
+
+- Cloud & development tools — AWS · Firebase · Docker · Git · GitHub Actions
+
+- Testing & quality — JUnit 5 · EasyMock · Selenium · Cucumber · JaCoCo · PIT
 
 ### 🌿 Growing next
 
