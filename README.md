@@ -20,7 +20,7 @@ My focus is **Java backend and full-stack development**, with a soft spot for **
 | **[PaySync](https://paysync.zla.app/)** | A team-built expense-sharing app with group invitations, real-time updates, and settlement logic. | React · TypeScript · Go · Firebase |
 | **[PixelTailor](https://github.com/Musiww/PixelTailor-AWS_based_Intelligent_Image_Processing_Application)** | An AWS image-management team project where I focused on Rekognition integration and label-based retrieval. Planning an independent extension into a photo album with natural-language search. | Python · AWS Lambda · S3 · Rekognition · MySQL |
 | **[Kitten Card Game](https://rongweiww.com/#work)** | Java game logic and reliability, supported by 130+ unit tests, behavior-driven tests, and mutation testing. | Java · JUnit 5 · Cucumber · JaCoCo · PIT |
-| **[myfiletool](https://github.com/Musiww/myfiletool)** · [Live app ↗](https://myfiletool.rongweiww.com) | I built a little tool to compress, resize, and convert images and turn PDF pages into images. Files stay in your browser. | React · TypeScript · Vite · Canvas · PDF.js |
+| **[myfiletool](https://github.com/Musiww/myfiletool)** · [Live👆](https://myfiletool.rongweiww.com) | I built a little tool to compress, resize, and convert images and turn PDF pages into images. Files stay in your browser. | React · TypeScript · Vite · Canvas · PDF.js |
 
 <sub>Project links open a live demo, source code, or the corresponding overview on my portfolio.</sub>
 
